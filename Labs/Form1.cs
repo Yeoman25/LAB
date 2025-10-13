@@ -16,5 +16,15 @@ namespace Labs
         {
             label1.Text = "Ильин Егор, ИС4-242-ОМ";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
