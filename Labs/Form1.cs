@@ -24,7 +24,7 @@ namespace Labs
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Label3.Text = "Карташов Александр, ИС4-242-ОМ"
+            label3.Text = "Карташов Александр, ИС4-242-ОМ";
         }
     }
 }
