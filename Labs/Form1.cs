@@ -19,12 +19,12 @@ namespace Labs
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Label3.Text = "Карташов Александр, ИС4-242-ОМ"
         }
     }
 }
