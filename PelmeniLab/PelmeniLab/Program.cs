@@ -31,7 +31,7 @@ class Program
         double p_pa = InputUtils.ReadDouble("Производительность пельменного автомата p_па, т/ч");
         double p_tm = InputUtils.ReadDouble("Производительность тестомеса p_тм, т/ч");
         double p_k = InputUtils.ReadDouble("Производительность куттера p_к, т/ч");
-
+        //
         
     }
 }
